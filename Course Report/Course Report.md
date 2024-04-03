@@ -6,22 +6,22 @@
 
 
 <h3 align="center">SURE Trust - Skill Upgradation for Rural-youth Empowerment Trust</h3>
-  <h2>Course Name</h2>
+  <h2>VLSI-Frontend</h2>
 </div>
 
 # Course Report
 
-## Name: [Your Name]
+## Name: Rohan Gowda M R
 
-## Qualifications: [Your Qualifications]
+## Qualifications: Pursuing 4th year BE
 
-Welcome to the course report for the [Course Name]! This README document provides an overview of the course, its mini projects and final project.
+Welcome to the course report for the VLSI Designing! This README document provides an overview of the course, its mini projects and final project.
 
 ### Mini Projects and Final Project
 
 Below is a table summarizing the mini projects and final project completed during the course:
 
-| Description                               | Link                                    |
-|-------------------------------------------|-----------------------------------------|
-| Mini Projects: [Project Description]     | [Project Link]                         |
-| Final Project: [Project Description]     | [Project Link]                         |
+| Description                                                                         | Link                                                                                            |
+|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| Mini Project: Memories, FSM, Adders, Multiplexer, Encoder, Pad cell, Scan flip-flop |[Click Link](https://github.com/sure-trust/G13_VLSI/tree/main/Mini%20Projects/Rohan)           |
+| Final Project: IEEE Standard JTAG Protocol Implementation                           |[Click Link](https://github.com/sure-trust/G13_VLSI/tree/main/Final%20Capstone%20Project/Rohan)|
